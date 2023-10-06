@@ -1,4 +1,4 @@
- // C code to linearly search x in arr[]. 
+  // C code to linearly search x in arr[]. 
 
 #include <stdio.h> 
 
